@@ -1,4 +1,5 @@
 # UWP_Example_TabsStylePivot
+![Alt text](/screenshots/Capture1.png?raw=true "Optional Title")
 ![alt tag](/UWP_Example_TabsStylePivot/screenshots/Capture1.png)
 ![alt tag](/UWP_Example_TabsStylePivot/screenshots/Capture2.png)
 ![alt tag](/UWP_Example_TabsStylePivot/screenshots/Capture3.png)
